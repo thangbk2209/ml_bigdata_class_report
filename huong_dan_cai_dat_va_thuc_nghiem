@@ -1,0 +1,6 @@
+
+
+Hướng dẫn cài đặt và triển khai code
+1. Cài đặt môi trường sử dụng python=3.6
+2. Cài đặt các thư viện liên quan: pip install -r requirements.txt
+3. Chạy thực nghiệm: python manager.py
